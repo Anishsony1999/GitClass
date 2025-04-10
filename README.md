@@ -15,6 +15,7 @@
 - Thamanna Sajeevan
 - Rejin
 - Noufal NS
+- Steny
 - Binoja V V
 - Josmy V Joseph
 - Gurumithra S S
@@ -24,3 +25,4 @@
 - Athira S A
 - Josmy V Joseph
 - Merin John
+
