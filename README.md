@@ -1,4 +1,5 @@
 # Git Class
+
 * Anish N
 * Jijo
 * Unni A R
@@ -27,6 +28,7 @@
 * vergelabs
 * ArathyJ
 * Ardra S Krishnan
+* Gopika Sreevalsan
 * Nandana s
 * Akhil A S
 * Haris
