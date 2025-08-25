@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+ HEAD
 * Git Class
-=======
+
 
 # Git Class
 
->>>>>>> 05fbcffc2a542755c7ed3e7a2fb76190f098a492
+ 05fbcffc2a542755c7ed3e7a2fb76190f098a492
 * Anish N
 * Jijo
 * Unni A R
