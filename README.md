@@ -28,6 +28,7 @@
 * vergelabs
 * ArathyJ
 * Ardra S Krishnan
+* Haris
 * Akash
 * Anjal
 * Adarsh 
