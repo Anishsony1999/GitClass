@@ -1,4 +1,6 @@
-* Git Class
+
+# Git Class
+
 * Anish N
 * Jijo
 * Unni A R
