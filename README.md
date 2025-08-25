@@ -1,4 +1,4 @@
-- Git Class
+# Git Class
 
 - Anish N
 - Jijo
