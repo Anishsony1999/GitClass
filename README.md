@@ -1,4 +1,5 @@
-* Git Class
+# Git Class
+
 * Anish N
 * Jijo
 * Unni A R
@@ -28,3 +29,7 @@
 * ArathyJ
 * Ardra S Krishnan
 * Akash
+* Anjal
+* Adarsh 
+* Geethu Krishnan
+* Akhil Suresh
